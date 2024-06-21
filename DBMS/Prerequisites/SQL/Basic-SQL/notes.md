@@ -1,5 +1,3 @@
----
-
 ### SQL Commands
 
 #### Filtering Records
@@ -127,5 +125,3 @@ A query within another query, used to perform operations that depend on the resu
     GROUP BY DepartmentID
     HAVING COUNT(*) > 5;
     ```
-
----
